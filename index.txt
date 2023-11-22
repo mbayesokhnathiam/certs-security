@@ -1,2 +1,2 @@
-V	431117110900Z		01	unknown	/O={{ xroad_ca_ocsp_o\xC2\xA0}}/CN={{ xroad_ca_ocsp_cn\xC2\xA0}}
-V	431117110918Z		02	unknown	/O={{ xroad_ca_tsa_o\xC2\xA0}}/CN={{ xroad_ca_tsa_cn\xC2\xA0}}
+V	431117114121Z		01	unknown	/O={{ xroad_ca_ocsp_o\xC2\xA0}}/CN={{ xroad_ca_ocsp_cn\xC2\xA0}}
+V	431117114127Z		02	unknown	/O={{ xroad_ca_tsa_o\xC2\xA0}}/CN={{ xroad_ca_tsa_cn\xC2\xA0}}
